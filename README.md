@@ -154,7 +154,6 @@ It helps users:
 
 ## Attention Worth Formula
 
-```text
 (Relevance × 0.30)
 + (Action Taken × 0.20)
 + (Timing Sensitivity × 0.20)
