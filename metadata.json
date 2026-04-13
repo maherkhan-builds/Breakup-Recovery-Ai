@@ -1,0 +1,6 @@
+{
+  "name": "Ex Mention Tracker",
+  "description": "An AI-powered accountability and healing app for breakup recovery, tracking emotional patterns and mentions of an ex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered insights", "Emotional tracking", "Journal analysis"]
+}
