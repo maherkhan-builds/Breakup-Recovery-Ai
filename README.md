@@ -1,163 +1,239 @@
-# 🔕📊 Smart-Notification-Filter  
+<!-- FUTURISTIC BREAKUP RECOVERY HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=🔕%20Notification%20Autopsy&fontSize=38&fontAlignY=40&color=0:0F172A,50:22D3EE,100:84CC16&animation=fadeIn&fontColor=ffffff&desc=Focus%20More%20%7C%20Distract%20Less%20%7C%20Take%20Back%20Your%20Attention%20⚡&descAlignY=68&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:22D3EE,70:84CC16,100:F59E0B&height=270&section=header&text=💔%20Ex%20Mention%20Tracker%20📊&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Turn%20Emotional%20Patterns%20Into%20Healing%20Awareness&descAlignY=70&descSize=18"/>
+</p>
+
+<h1 align="center">💔 Ex Mention Tracker 📊</h1>
+<p align="center"><b>Awareness Tool to Help You Move On Faster ✨</b></p>
+
+---
+
+## 🌟 Breakup Recovery Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/💔%20BREAKUP-RECOVERY-3A3A3A?style=flat-square&color=22D3EE"/>
+<img src="https://img.shields.io/badge/🧠%20EMOTIONAL-AWARENESS-3A3A3A?style=flat-square&color=84CC16"/>
+<img src="https://img.shields.io/badge/📊%20PATTERN-TRACKING-3A3A3A?style=flat-square&color=F59E0B"/>
+<img src="https://img.shields.io/badge/🚀%20AI%20CHALLENGE-1%20APP%20PER%20DAY-3A3A3A?style=flat-square&color=0F172A"/>
+
 </p>
 
 <p align="center">
-  <b>🧠 AI-Powered Attention Intelligence for a Distraction-Free Life</b>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Industry-Digital%20Wellness%20%2F%20Attention%20Management-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Notification%20Intelligence-22D3EE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Attention%20Analysis-84CC16?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Productivity-Focus%20Optimization-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Production%20Prototype-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩%20BEHAVIOR-HABIT%20SHIFT-3A3A3A?style=flat-square&color=22D3EE"/>
+<img src="https://img.shields.io/badge/⏳%20HEALING-ACCELERATION-3A3A3A?style=flat-square&color=84CC16"/>
+<img src="https://img.shields.io/badge/✨%20SELF-AWARENESS-3A3A3A?style=flat-square&color=F59E0B"/>
+
 </p>
 
 ---
 
-# ✨ Overview
-
-**Smart-Notification-Filter** is an AI-powered digital wellness app built around the concept of **Notification Autopsy** — a system that analyzes incoming notifications and reveals which ones truly mattered versus which ones silently stole attention.
-
-It transforms notification chaos into **clarity, control, and focus intelligence**.
+# 🌍 Industry
+Breakup Recovery / Mental Wellness / Emotional Behavior Tracking
 
 ---
 
-# 🏭 Industry
+# 🎯 Overview
 
-Digital Wellness / Attention Management  
+Ex Mention Tracker is a behavior-awareness app designed to help users move on faster by tracking how often they bring up their ex in daily life.
 
----
+Instead of suppressing emotions, it builds awareness around:
 
-# 🎯 Target Audience
+- Thought patterns  
+- Verbal habits  
+- Emotional triggers  
+- Repetition loops  
 
-- Smartphone users struggling with notification overload  
-- Professionals losing focus due to interruptions  
-- Students and creators managing attention fragmentation  
-- Anyone seeking calmer, smarter phone usage  
+The mission:
 
----
-
-# 🚨 Core Problem
-
-Constant notifications:
-
-- Fragment attention  
-- Reduce productivity  
-- Increase context switching  
-- Create cognitive overload  
-
-Users cannot distinguish between **important alerts** and **attention-stealing noise**.
+> Turn unconscious emotional patterns into conscious healing progress.
 
 ---
 
-# 💡 Solution
+# ⚠️ The Problem
 
-**Notification Autopsy** analyzes every notification and answers:
+Moving on takes longer because:
 
-👉 *Did this actually matter?*
+- People repeatedly talk about their ex without realizing it  
+- Emotional loops stay active through repetition  
+- Friends and conversations reinforce the pattern  
+- There is no measurable awareness of progress  
 
-It helps users:
+Without tracking, healing feels slow and unclear.
 
-- Identify real vs fake urgency  
-- Understand attention loss  
-- Detect distraction patterns  
-- Protect deep work time  
+---
+
+# 💡 The Solution
+
+Ex Mention Tracker introduces simple but powerful accountability:
+
+- Track every time the ex is mentioned  
+- Identify emotional triggers  
+- Visualize progress over time  
+- Reduce repetition through awareness  
+
+Core prompt:
+> “Count how many times I brought them up today — hold me accountable.”
 
 ---
 
 # 🧠 Core Features
 
-## 📥 Notification Tracking Engine
-- Capture all incoming notifications  
-- Track app, time, and frequency  
-- Categorize:
-  - Work  
-  - Social  
-  - Promotions  
-  - System  
-  - Urgent  
-- Track interaction:
-  - Opened  
-  - Ignored  
-  - Delayed  
+### 1️⃣ Mention Tracking Engine
+- Quick tap logging system  
+- Voice or text-based mention capture  
+- Timestamp every mention  
+- Track context (conversation, thought, social media, etc.)
 
-## 🤖 AI Attention Analysis Engine
-- Identify high-value vs low-value notifications  
-- Detect distraction patterns  
-- Measure interruption frequency and timing  
-- Analyze context switching impact  
+### 2️⃣ AI Pattern Analysis Engine
+- Detect emotional triggers  
+- Identify peak mention times  
+- Analyze repetition cycles  
+- Highlight situations where mentions increase  
 
-## 📊 Notification Value Score
-- Assign **Attention Worth Score**
-- Categorize:
-  - 🟢 Important  
-  - 🟡 Neutral  
-  - 🔴 Distracting  
-- Daily and weekly breakdown  
+### 3️⃣ Mention Score System
+- Daily mention count  
+- Weekly trend tracking  
+- Progress-based reduction insights  
+- Awareness score (how often vs previous days)
 
-## 📈 Focus Impact Dashboard
-- Time lost due to notifications  
-- Peak distraction hours  
-- App-wise interruption heatmap  
-- Deep work vs interruption timeline  
+### 4️⃣ Emotional Awareness Dashboard
+- Peak trigger hours  
+- Daily mention graph  
+- Streaks of reduced mentions  
+- Progress visualization  
 
-## 🔕 Smart Notification Filter
-- Suggest which apps to mute or limit  
-- AI-driven Focus Mode  
-- Priority notification whitelist  
-- Auto-silencing during deep work periods  
+### 5️⃣ Smart Reflection Prompts
+- “What triggered this mention?”  
+- “Was this necessary?”  
+- “What could you focus on instead?”  
 
-## 🧘 Insight & Behavior Coaching
-- “What actually mattered today” summary  
-- “What stole your attention” report  
-- Personalized habit improvement suggestions  
-- Focus score tracking over time  
+### 6️⃣ Healing & Habit Coaching
+- Micro-suggestions to redirect attention  
+- Replace habit loops with healthier actions  
+- Build emotional independence gradually  
 
 ---
 
-# 🎨 UI / UX Requirements
+# 📱 App Structure
 
-**Design Tone:** Minimal • Sharp • Focus-oriented  
+### Onboarding
+Set intention for healing and awareness.
 
-### Visual Style
-- Clean layouts  
-- Sharp data visualizations  
-- Subtle animations  
-- Distraction-free interface  
+### Quick Log Screen
+Tap or voice input to track each mention instantly.
 
-### UI Elements
-- Notification timeline graph  
-- Attention heatmap  
-- Circular focus score indicator  
-- App-wise bar charts  
-- Insight cards with AI summaries  
+### Daily Report
+Clear breakdown of mentions and patterns.
 
----
+### Progress Dashboard
+Visual trends showing reduction over time.
 
-# 📱 App Screens
+### Trigger Insights
+AI-identified emotional triggers and patterns.
 
-1. Onboarding (Permission Setup)  
-2. Notification Timeline  
-3. Daily Autopsy Report  
-4. Focus Dashboard  
-5. Smart Filter Settings  
-6. Insights & Coaching  
-7. Settings  
+### Reflection & Coaching
+Guided prompts to build awareness and shift habits.
+
+### Settings
+Customization, reminders, and privacy controls.
 
 ---
 
-# 🧠 AI Analysis Logic
+# 🎨 Design Philosophy
 
-## Attention Worth Formula
+- Calm and emotionally safe UI  
+- Minimal friction for logging  
+- Non-judgmental experience  
+- Encouraging visual feedback  
+- Clean and distraction-free  
 
-(Relevance × 0.30)
-+ (Action Taken × 0.20)
-+ (Timing Sensitivity × 0.20)
-+ (Frequency Penalty × -0.15)
-+ (Context Switch Cost × 0.15)
-📊 Sample Notification Analysis Output
-<p align="center"> 🔕 Less noise. More focus. Powered by AI. </p> ```
+Color System:
+- Deep Charcoal `#0F172A`  
+- Electric Cyan `#22D3EE`  
+- Vibrant Lime `#84CC16`  
+- Warning Amber `#F59E0B`  
+- Clean Off-White `#F8FAFC`  
+
+---
+
+# 🧩 Why This App Matters
+
+Healing is not just emotional — it is behavioral.
+
+This app helps users:
+
+- Notice patterns they normally miss  
+- Reduce emotional dependency loops  
+- Gain control over conversations and thoughts  
+- Track real progress in moving on  
+
+Awareness creates distance.  
+Distance creates healing.
+
+---
+
+# 👥 Target Audience
+
+- People going through breakups  
+- Individuals stuck in emotional loops  
+- Anyone trying to move on faster  
+- Users seeking structured healing tools  
+
+---
+
+# 💰 Business Model
+
+### Free Version
+- Basic mention tracking  
+- Daily awareness insights  
+- Simple progress visualization  
+
+### Premium Version
+- Advanced pattern analysis  
+- AI-trigger detection  
+- Long-term progress tracking  
+- Personalized healing coaching  
+
+---
+
+# 🛠 Tools Used
+
+- Gemini + Google AI Studio (ideation + scheduling logic design)  
+- Google App Studio (core app development)  
+- Google Stitch (UI design + prototyping)  
+- Kimi (UI design + prototyping)  
+- Base44 (UI design + prototyping)  
+- Figma (UI design + prototyping)  
+- Google Opal (interaction testing + refinement)  
+- React + TypeScript  
+- Material Design principles  
+
+---
+
+# ⏱ Time to Build
+
+~20–30 minutes (idea → working prototype)
+
+---
+
+# 🚀 Part of My AI App Challenge
+
+Building one industry-specific AI app per day using vibe-coding.
+
+Prompt → Prototype → Iterate → Learn.
+
+---
+
+# 🔗 Follow the Journey
+
+Instagram: https://www.instagram.com/social.icm/  
+TikTok: https://www.tiktok.com/@social_media_coach  
+LinkedIn: https://www.linkedin.com/in/mahersocialmediastrategistus/  
+GitHub: https://github.com/maherkhan-builds  
+
+---
+
+✨ Designing AI systems that support emotional clarity and faster healing.
